@@ -1,4 +1,5 @@
 type mtk_hal_audio, domain;
+type mtk_hal_audio_exec, exec_type;
 init_daemon_domain(mtk_hal_audio)
 
 permissive mtk_hal_audio;
