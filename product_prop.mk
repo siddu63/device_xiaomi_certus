@@ -43,5 +43,4 @@ PRODUCT_PRODUCT_PROPERTIES  += \
    ro.surface_flinger.present_time_offset_from_vsync_ns=0
 
 # maintainer
-PRODUCT_PROPERTY_OVERRIDES += \
-    org.komodo.maintainer=wulan17
+
